@@ -1,1 +1,1 @@
-# WIT-Camera-Basics
+# Camera-Basics
